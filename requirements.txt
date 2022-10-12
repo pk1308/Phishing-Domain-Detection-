@@ -1,4 +1,7 @@
-tensorflow
+sklearn
+xgboost
+catboost
+dvc-gdrive
 dvc
 pandas
 notebook

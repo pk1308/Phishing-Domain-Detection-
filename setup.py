@@ -5,9 +5,9 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "DeepLearning_with_DVC"
+REPO_NAME = "phishing-domain-detection"
 AUTHOR_USER_NAME = "PK1308"
-SRC_REPO = "deepClassifier"
+SRC_REPO = "phishingdomaindetection"
 AUTHOR_EMAIL = "princevkurien@gmail.com"
 setuptools.setup(
     name=SRC_REPO,
